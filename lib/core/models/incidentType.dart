@@ -1,0 +1,6 @@
+enum IncidentType {
+  VEHICLE,
+  INFRASTRUCTURE,
+  ELECTRICITY,
+  CAR,
+}

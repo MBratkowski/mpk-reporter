@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "825946264854",
+    "firebase_url": "https://mpk-reporter.firebaseio.com",
+    "project_id": "mpk-reporter",
+    "storage_bucket": "mpk-reporter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825946264854:android:1f5e1491b4bbcf2bdc2c37",
+        "android_client_info": {
+          "package_name": "io.bratexsoft.mpkreporter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825946264854-jqfaog04e9c6ov75ga9ep6ets2i79qjh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxYsB8T_6XnQn2u2KY8jZ8gURKpgxwpp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825946264854-jqfaog04e9c6ov75ga9ep6ets2i79qjh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
