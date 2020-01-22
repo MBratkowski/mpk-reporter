@@ -1,6 +1,12 @@
 # mpk_reporter
 
-A new Flutter application.
+This is open source, not official app to send information about incidents in public transport in Wroclaw.
+
+Idea which stay behind of this application is that - current socials applications (espiecally Facebook) is not adjust for this kind of needs.
+
+We want improve quality of public transport in Wroclaw city, so we want create tools which will be good for passengers.
+
+Flutter will be enought to deliver MVP of this product for both platforms - iOS and Android.
 
 ## Getting Started
 
