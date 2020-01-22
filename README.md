@@ -1,12 +1,12 @@
 # mpk_reporter
 
-This is open source, not official app to send information about incidents in public transport in Wroclaw.
+This is an open-source, not an official app to send information about incidents in public transport in Wroclaw.
 
-Idea which stay behind of this application is that - current socials applications (espiecally Facebook) is not adjust for this kind of needs.
+The idea which stays behind this application is that - current socials applications (especially Facebook) are not adjusted for this kind of needs.
 
-We want improve quality of public transport in Wroclaw city, so we want create tools which will be good for passengers.
+We want to improve the quality of public transport in Wroclaw city, so we want to create tools which will be good for passengers.
 
-Flutter will be enought to deliver MVP of this product for both platforms - iOS and Android.
+Flutter will be enough to deliver MVP of this product for both platforms - iOS and Android.
 
 ## Getting Started
 
